@@ -15,7 +15,7 @@ import { SubscriptionFormsComponent } from './subscription-forms/subscription-fo
 import { CommentFormComponent } from './comments/comment-form/comment-form.component';
 import { CommentListComponent } from './comments/comment-list/comment-list.component';
 import { AboutUsComponent } from './pages/about-us/about-us.component';
-import { PostCardComponent } from './layout/post-card/post-card.component';
+import { PostCardComponent } from './layouts/post-card/post-card.component';
 
 @NgModule({
   declarations: [
